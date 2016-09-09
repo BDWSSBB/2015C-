@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: Tic Tac Toe, Configuration: Debug Win32 ------
+1>  Source.cpp
+1>  Tic Tac Toe.vcxproj -> c:\users\student\documents\visual studio 2013\Projects\Tic Tac Toe\Debug\Tic Tac Toe.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
